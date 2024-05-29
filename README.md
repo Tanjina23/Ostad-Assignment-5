@@ -1,1 +1,1 @@
-# Backend for an e-commerce website
+# Developed the backend for a full-fledged e-commerce website
